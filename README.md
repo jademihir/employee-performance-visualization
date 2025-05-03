@@ -14,5 +14,3 @@ A desktop application built with Python (PyQt5 and Matplotlib) for managing empl
   - **Bar Chart**: Displays all employees' individual scores.
 - **Persistent Storage**: Employee data is saved to and loaded from a CSV file (`employees.csv`).
 - **Interactive UI**: Selecting a row in the table populates the entry fields for easy editing.
-
-## File Structure
